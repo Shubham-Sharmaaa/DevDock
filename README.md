@@ -5,12 +5,10 @@ A GitHub-inspired developer collaboration platform, built from scratch on a MERN
 DevDock has its own backend, its own database, and its own model of repositories, files, issues and revisions — it is **not** a wrapper around GitHub's API, and it does **not** reimplement Git's storage engine or push/pull protocol. See [What this is not](#what-this-is-not) below for the exact boundary.
 
 ## Screenshots
+<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/330f03ec-3ce1-4627-a4ce-b3ef746da141" />
+<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/73b6b902-1517-4da6-a0cc-146e65648160" />
+<img width="1917" height="956" alt="image" src="https://github.com/user-attachments/assets/aafae333-cced-4c7c-a0ab-6e177cca3b46" />
 
-*Add screenshots here after running the app locally (see [Getting started](#getting-started)) — a good set to capture:*
-- *the dashboard (repo list + activity feed)*
-- *a repository overview page (README rendered, file list, star button)*
-- *the file editor showing the version-conflict banner (open the same file in two tabs, save from both)*
-- *an issue detail page with comments*
 
 ## Features
 
